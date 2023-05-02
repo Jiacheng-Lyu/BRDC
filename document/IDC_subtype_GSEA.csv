@@ -1,0 +1,17 @@
+x,term,FDR,NES
+LuminalA,Glyoxylate and dicarbocylate metabolism,0.10419857,1.7456561
+LuminalA,TCA cycle,0.09338261,1.7190522
+LuminalA,Estrogen response late,0.004333333,2.3728995
+LuminalA,Estrogen response early,0.025620393,2.102319
+LuminalA,Androgen response,0.033535905,1.9411395
+LuminalB,mTOR signaling,0.047419135,2.084477
+LuminalB,TGF beta signaling,0.067586444,1.8501269
+LuminalB,Oxidative phosphorylation,3.33E-04,3.0828176
+LuminalB,Fatty acid metabolism,0.0104,2.9859555
+LuminalB,Androgen response,0.04176473,2.1767583
+LuminalB,Estrogen response late,0.04011114,2.1697896
+LuminalB,Estrogen response early,0.045285743,2.0382028
+Her2-enriched,Pyruvate metabolism,0.10542586,1.921016
+Her2-enriched,Hypoxia,0.067951605,1.6750188
+Her2-enriched,Glycolysis,0.0821474,1.5506227
+TNBC,IL2 STAT5 signaling ,0.19619294,1.4598907

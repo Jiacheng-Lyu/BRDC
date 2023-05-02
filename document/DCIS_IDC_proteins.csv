@@ -1,0 +1,62 @@
+subtype,pathway,protein
+LuminalA,TCA,IDH3B
+LuminalA,TCA,DLST
+LuminalA,TCA,SUCLA2
+LuminalA,TCA,IDH3G
+LuminalA,Oxidative phosphorylation,ATP5PO
+LuminalA,Oxidative phosphorylation,NDUFS7
+LuminalA,Oxidative phosphorylation,COX6C
+LuminalA,Oxidative phosphorylation,NDUFB1
+LuminalA,Oxidative phosphorylation,NDUFA7
+LuminalA,Oxidative phosphorylation,ATP5MF
+LuminalA,Oxidative phosphorylation,TIMM8B
+LuminalA,Oxidative phosphorylation,ACAA1
+LuminalA,Oxidative phosphorylation,BDH2
+LuminalA,Oxidative phosphorylation,LRPPRC
+LuminalB,Fatty acid metabolism,SUCLG1
+LuminalB,Fatty acid metabolism,CA4
+LuminalB,Fatty acid metabolism,ADH7
+LuminalB,Fatty acid metabolism,CBR1
+LuminalB,Fatty acid metabolism,GRHPR
+LuminalB,Fatty acid metabolism,HCCS
+LuminalB,Fatty acid metabolism,CPT1A
+LuminalB,Oxidative phosphorylation,NDUFS7
+LuminalB,Oxidative phosphorylation,COX6C
+LuminalB,Oxidative phosphorylation,IDH3B
+LuminalB,Oxidative phosphorylation,SUCLG1
+LuminalB,Oxidative phosphorylation,COX17
+LuminalB,Oxidative phosphorylation,ACAT1
+LuminalB,Oxidative phosphorylation,BDH2
+Her2-enriched,Hypoxia,BHLHE40
+Her2-enriched,Hypoxia,SERPINE1
+Her2-enriched,Hypoxia,EXT1
+Her2-enriched,Hypoxia,S100A4
+Her2-enriched,Hypoxia,CXCR4
+Her2-enriched,Hypoxia,CP
+Her2-enriched,Hypoxia,NCAN
+Her2-enriched,Glycolysis,PKM
+Her2-enriched,Glycolysis,CHPF2
+Her2-enriched,Glycolysis,ME2
+Her2-enriched,Glycolysis,SPAG4
+Her2-enriched,Glycolysis,STMN1
+Her2-enriched,Glycolysis,SOX9
+Her2-enriched,Glycolysis,ABCB6
+Her2-enriched,Glycolysis,PPIA
+TNBC,IL2-STAT5 signaling,CISH
+TNBC,IL2-STAT5 signaling,BHLHE40
+TNBC,IL2-STAT5 signaling,BCL2L1
+TNBC,IL2-STAT5 signaling,MAP3K8
+TNBC,IL2-STAT5 signaling,S100A1
+TNBC,IL2-STAT5 signaling,TLR7
+TNBC,IL2-STAT5 signaling,MUC1
+TNBC,IL2-STAT5 signaling,PTH1R
+TNBC,IL2-STAT5 signaling,HOPX
+TNBC,IL2-STAT5 signaling,CD48
+TNBC,IL2-STAT5 signaling,FURIN
+TNBC,IL2-STAT5 signaling,IL18R1
+TNBC,IL2-STAT5 signaling,AHNAK
+TNBC,IL2-STAT5 signaling,POU2F1
+TNBC,IL2-STAT5 signaling,SELL
+TNBC,IL2-STAT5 signaling,COCH
+TNBC,IL2-STAT5 signaling,RNH1
+TNBC,IL2-STAT5 signaling,TGM2
