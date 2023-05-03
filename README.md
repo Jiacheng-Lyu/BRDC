@@ -62,7 +62,7 @@ The following package/library versions were used in this study:
 
 ## Folders Structure
 The files are organised into four folders:
-* *document*: which contains all the genomic, transcriptomic, proteomics, phosphoproteomic and clinical patient informations required to perform the analyses described in the paper. The data files is currently deposited to the zenodo repository and can be available on Supplementary_Tables link.
+* *document*: which contains all the genomic, transcriptomic, proteomics, phosphoproteomic and clinical patient informations required to perform the analyses described in the paper.
 * *code*: contains the python code in the ipython notebook to reproduce all analyses and generate the the figures in this study.
 * *documents*: contains the related Supplementary Table produced by the code.
 * *figure*: contains the related plots produced by the code.
